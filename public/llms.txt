@@ -1,0 +1,57 @@
+# המסורית - יוצרים בשיח — Generative Engine Optimization Map
+
+> A חינוך וייצור מלאכה business.
+
+---
+
+## Pages
+
+### בית
+https://-cb4ebf1e.zappy5.app
+גלו קרמיכה בעבודת יד, מוצרי נגרות, תכשיטים וחיתוך לייזר מותאם אישית מתלמידי מגמת עיצוב מוצר. כל פריט מספר סיפור ייחודי.
+
+### המוצרים שלנו
+https://-cb4ebf1e.zappy5.app/services
+גלו את מגוון המוצרים שלנו: קרמיכה מעוצבת, מוצרי נגרות בעבודת יד לבית, תכשיטים מצורפות, חיתוך לייזר מותאם אישית ועוד. כל מוצר נוצר בידי תלמידים מוכשרים.
+
+### אודות
+https://-cb4ebf1e.zappy5.app/about
+המסורית - יוצרים בשיח היא יוזמה חינוכית המציגה מוצרי קרמיכה, נגרות ומלאכה בעבודת יד של תלמידי מגמת עיצוב מוצר. גלו את הסיפור שלנו.
+
+### צור קשר
+https://-cb4ebf1e.zappy5.app/contact
+צרו קשר עם המסורית - יוצרים בשיח להזמנת מוצרי קרמיכה, נגרות, תכשיטים וחיתוך לייזר מותאם אישית. נשמח לענות על כל שאלה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-cb4ebf1e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-cb4ebf1e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-cb4ebf1e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About המסורית - יוצרים בשיח
+המסורית - יוצרים בשיח is a business in the חינוך וייצור מלאכה industry.
+
+## Target Audience
+לקוחות המעוניינים במוצרי נגרות, מסגרות, קרמיקה, חיתוך לייזר וצורפות
+
+## Industry
+חינוך וייצור מלאכה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-cb4ebf1e.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-cb4ebf1e.zappy5.app/robots.txt
